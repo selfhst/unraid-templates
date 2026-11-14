@@ -1,0 +1,7 @@
+<CommunityApplications>
+  <Profile>
+    selfh.st is an independent publication covering self-hosted news, software, and content, with a weekly newsletter and application directory. This repository holds the template for selfh.st/icons, a lightweight server for the selfh.st/icons collection that lets users serve and recolor thousands of icons from their own hardware. For help, open an issue at github.com/selfhst/icons.
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/selfhst/icons/main/svg/selfh-st.svg</Icon>
+  <WebPage>https://selfh.st/</WebPage>
+</CommunityApplications>
